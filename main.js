@@ -38,6 +38,6 @@ let lager
 init()
 console.log(lager)
 
-//Moin was geht
+
 
 
