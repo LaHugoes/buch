@@ -41,3 +41,25 @@ console.log(lager)
 
 
 
+
+
+
+
+
+
+
+function ausDemSortiment(titel){
+    if (this.bestand === 0) {
+        console.log("Buch ist aus dem Sortiment")
+    }else{
+        console.log("Buch ist noch vorhanden ")
+    }
+}
+
+function lagerListe(){
+    console.log(lager)
+}
+
+
+
+
